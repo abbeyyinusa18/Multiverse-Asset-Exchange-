@@ -5,3 +5,5 @@ _
 /contracts/inter-reality-asset-tokenization.clar,d/d/dd83e4030802a214441d0d502ddb166f1dfb46b6
 ^
 .tests/inter-reality-asset-tokenization.test.ts,8/5/855b11621f27272d2cb4816217f197877a2f4781
+_
+/contracts/cross-universal-value-conversion.clar,1/e/1e1bf0fa879e57bbcb206932a3ab6757961a1343
