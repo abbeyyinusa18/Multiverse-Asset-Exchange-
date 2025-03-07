@@ -15,3 +15,5 @@ W
 'tests/multiverse-liquidity-pool.test.ts,8/c/8c90b4931f77919f98d395c8a0053bcb2ed23fa9
 a
 1contracts/reality-divergence-risk-assessment.clar,8/a/8aa68e1c17ae4c617e9df1e3a837545762c6e4d3
+`
+0tests/reality-divergence-risk-assessment.test.ts,e/d/ed8fb972a563326a6e688c0fcde7ec69da4840a9
